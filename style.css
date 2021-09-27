@@ -92,13 +92,13 @@ h1.temp {
 	left: 20px;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 1000px) {
 	input.search-bar {
 		padding: 0.2em;
 		width: 100%;
 	}
 	.card {
-		width: 75%;
+		width: 50%;
 	}
 	h1.temp {
 		font-size: 20px;
