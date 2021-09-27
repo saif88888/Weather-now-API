@@ -108,4 +108,9 @@ h1.temp {
 	h2.city {
 		font-size: 20px;
 	}
+	button {
+		height: 20px;
+		width: 20px;
+		font-size: 50%;
+	}
 }
