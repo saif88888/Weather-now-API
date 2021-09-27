@@ -92,7 +92,7 @@ h1.temp {
 	left: 20px;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 550px) {
 	input.search-bar {
 		padding: 0.2em;
 		width: 100%;
