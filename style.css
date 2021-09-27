@@ -91,3 +91,19 @@ h1.temp {
 	top: 0;
 	left: 20px;
 }
+
+@media only screen and (max-width: 400px) {
+	input.search-bar {
+		padding: 0.2em;
+		width: 100%;
+	}
+	.card {
+		width: 75%;
+	}
+	h1.temp {
+		font-size: 20px;
+	}
+	h2.city {
+		font-size: 20px;
+	}
+}
