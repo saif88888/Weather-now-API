@@ -54,10 +54,10 @@ input.search-bar {
 	padding: 0.5em;
 	border-radius: 18px;
 	background-color: #000000c2;
-	color: white;
+	color: rgb(255, 255, 255);
 	font-family: inherit;
-	font-size: 120%;
-	font-weight: bold;
+	font-size: 100%;
+	font-weight: lighter;
 	width: calc(100%-100px);
 }
 
@@ -70,6 +70,7 @@ h1.temp {
 .description {
 	text-transform: capitalize;
 	margin-left: 8px;
+	font-size: 20px;
 }
 
 .flex {
@@ -96,9 +97,10 @@ h1.temp {
 	input.search-bar {
 		padding: 0.2em;
 		width: 100%;
+		font-size: 90%;
 	}
 	.card {
-		width: 50%;
+		width: 75%;
 	}
 	h1.temp {
 		font-size: 20px;
